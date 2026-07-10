@@ -14,7 +14,7 @@ export default function Cart() {
                             <img
                                 src={value.img}
                                 alt="Food"
-                                className="w-55 h-45 object-contain"
+                                className="w-55 h-45"
                             />
 
                             {/* Content */}
